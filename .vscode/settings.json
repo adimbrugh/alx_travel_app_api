@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 500,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "alx_travel",
+            "database": "alx_travel_db",
+            "username": "root"
+        }
+    ]
+}
